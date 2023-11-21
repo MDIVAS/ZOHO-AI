@@ -98,5 +98,4 @@ Distributed under the MIT License. See [LICENSE](https://github.com/MDIVAS/ZOHO-
 ## Acknowledgements
 
 * [MDIVAS](https://github.com/MDIVAS)
-* [Othneil Drew](https://github.com/othneildrew/Best-README-Template)
-* [ImgShields](https://shields.io/)
+
