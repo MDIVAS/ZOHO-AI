@@ -37,8 +37,8 @@
 * [Acknowledgements](#acknowledgements)
 
 ## About The Project
+![A I](https://github.com/MDIVAS/ZOHO-AI/assets/127883304/47f09032-0443-4036-a189-148bd1bafb04)
 
-![Screen Shot](images/screenshot.png)
 
 This repo utilizes OpenAI's GPT-3.5 Turbo model to engage in personalized conversations with users, catering to their preferred communication style. As GPT-3.5 Turbo serves as the foundation for ChatGPT, this project essentially shares its underlying model. Ultimately, the aim of this project is to develop a personal assistant that emulates human-like interactions. As the project is a work in progress, its features will expand as I continue to refine and iterate on the concept.
 
@@ -61,27 +61,7 @@ This repo utilizes OpenAI's GPT-3.5 Turbo model to engage in personalized conver
 
 If you just want to try out the assistants, download the zip folder and then unzip it to any location on your PC. Once unzipped, rename the keys_example file to keys.yaml and then set up your API Keys in key.yaml. Now you can do two things, run the exe and try it out or adjust the prompts in the prompts folder. If you run interview.exe, it's going to use the interview.txt file (same with roleplay). Else, you can modify the prompts to your own case and then run the exe files.
 
-### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-
-2. Clone the repo
-
-```sh
-git clone https://github.com/your_username_/Project-Name.git
-```
-
-3. Install NPM packages
-
-```sh
-npm install
-```
-
-4. Enter your API in `config.js`
-
-```JS
-const API_KEY = 'ENTER YOUR API';
-```
 
 ## Usage
 
