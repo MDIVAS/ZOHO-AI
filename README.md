@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/MDIVAS/ZOHO-AI">
-    <img src="https://assets.spe.org/f4/ad/61fb2ee84edb8b836770aa794b5c/twa-2021-12-ai-basics.jpg" alt="Logo" width="80" height="80">
+    <img src="https://assets.spe.org/f4/ad/61fb2ee84edb8b836770aa794b5c/twa-2021-12-ai-basics.jpg" alt="Logo" width="640" height="480">
   </a>
 
   <h3 align="center">ZOHO AI</h3>
