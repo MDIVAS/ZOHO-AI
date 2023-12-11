@@ -40,7 +40,6 @@
 ![A I](https://github.com/MDIVAS/ZOHO-AI/assets/127883304/47f09032-0443-4036-a189-148bd1bafb04)
 
 
-This repo utilizes OpenAI's GPT-3.5 Turbo model to engage in personalized conversations with users, catering to their preferred communication style. As GPT-3.5 Turbo serves as the foundation for ChatGPT, this project essentially shares its underlying model. Ultimately, the aim of this project is to develop a personal assistant that emulates human-like interactions. As the project is a work in progress, its features will expand as I continue to refine and iterate on the concept.
 
 
 
@@ -49,23 +48,57 @@ This repo utilizes OpenAI's GPT-3.5 Turbo model to engage in personalized conver
 
 
 
-## Built With
-
-1) Visual Code Studio
-2) Python idle 2023
-3)open ai api 
-3)whisper ai api
-4) Eleven labs api 
-
-## Getting Started
-
-If you just want to try out the assistants, download the zip folder and then unzip it to any location on your PC. Once unzipped, rename the keys_example file to keys.yaml and then set up your API Keys in key.yaml. Now you can do two things, run the exe and try it out or adjust the prompts in the prompts folder. If you run interview.exe, it's going to use the interview.txt file (same with roleplay). Else, you can modify the prompts to your own case and then run the exe files.
 
 
+## ZOHO AI
 
-## Usage
+### ZOHO AI is a private research laboratory that aims to develop and direct artificial intelligence (AI) whose parent company is zoho 
 
-IT CAN BE USED TO OBTAIN MANY RESULTS FASTER 
+## ZOHOGPT 
+
+###  ZOHOGPT is an artificial intelligence (AI) chatbot that uses natural language processing to create human-like conversational dialogue. The language model can respond to questions and compose various written content, including articles, social media posts, essays, code, and emails.
+
+### Uses of natural language processing.
+### These are some uses for natural language processing.
+### ZOHOGPT is a form of generative AI—a tool that lets users enter prompts to receive human-like images, text, or videos that are created by AI.
+
+## ZOHOIMAGE
+
+### USES ZOHOAI API OF ZOHOGPT TO CREATE AI IMAGES OUT OF TEXT (TEXT TO IMAGE )
+
+## ZOHOCLIP
+
+### USES ZOHOAI API OF ZOHOGPT TO CREATE AI VIDEOS OUT OF TEXT OR IMAGES 
+
+## ZOHOPPT
+
+
+### USES ZOHOAI API OF ZOHOGPT TO CREATE WHOLE  PRESENTATION OUT OF TOPIC WRITTEN IN TEXT 
+### ALSO GENERATES IMAGES , GIF ,VIDEOS AND ANIMATION  WITH IT FOR THE PRESENTATION 
+
+## ZOHOVOICE
+
+### USES YOUR VOICE AND CONVERTS IT INTO THE VOICE OF ANYONE 
+### CAN USE YOUR VOICE AND CONVERT IT TO A CELEBRITY VOICE AND CAN MAKE A SONG OUT OF IT
+
+
+## ZOHOMIC
+
+### MAKES YOUR MIC SOUND BETTER USING AI . REMOVES ALL THE BACKGROUND NOICES , IT USES AI AND IDENTIFIES WHICH SOUND SHOULD BE BLOCKED AND WHICH ARE NOT 
+
+
+## ZOHOEDITOR 
+
+### AUTO EDITS YOUR VIDEO USING AI . AUTO SUBTITLE WITH ZERO DELAY AND TRANSLATES TO ANY LANGUAGE , REMOVES BACKGROUND NOICES AND ALSO AUTO CUTS THE PAUSES IN THE VIDEOS
+
+
+## ZOHOCAM 
+
+### AI CAM FOR YOUR WEBCAM . AUTO FOCUS AND AUTO ZOOM ON YOUR FACE WHEREEVER YOU MOVE , CAN REMOVE ANY SELECTED OBJECT LIVE VIDEO OF WEBCAM 
+
+
+
+
 
 ## Roadmap
 
